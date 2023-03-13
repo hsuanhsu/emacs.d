@@ -1,6 +1,6 @@
 #About
 
-This configuration is referenced from ![cabins/emacs.d](https://github.com/cabins/emacs.d)
+This configuration is referenced from [cabins/emacs.d](https://github.com/cabins/emacs.d)
 
 # Environment
 
