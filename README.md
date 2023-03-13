@@ -1,3 +1,7 @@
+#About
+
+This configuration is referenced from ![cabins/emacs.d](https://github.com/cabins/emacs.d)
+
 # Environment
 
 GUN Emacs 28.1 for Mac
