@@ -14,4 +14,6 @@ GUN Emacs 28.1 for Mac
 git clone https://github.com/hsuanhsu/emacs.d ~/.emacs.d
 ```
 
-2. Launch Emacs.
+2. Launch Emacs and wait for a while.
+
+3. Done.
