@@ -1,6 +1,6 @@
 # Environment
 
-GUN Emacs 28.1
+GUN Emacs 28.1 for Mac
 
 # Installation
 
